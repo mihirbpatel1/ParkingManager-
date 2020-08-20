@@ -1,0 +1,13 @@
+1982 Ford F-150|TEE 239|TRUCK|40.5|100.00|0|0
+1997 Honda Accord|389 LPA|CAR|18.4|50.34|9|9
+2010 GMC Acadia|838 TTX|SUV|81|80.00|3|2| This vehicle has more current fuel than max capacity, system will automatically adjust current level to max capacity level
+2001 Dodge Ram|593 BCE|TRUCK|80|100|6|1
+1998 Honda Civic|912 ACE|CAR|40|50|0|4
+2004 Chevrolet Silverado|JAM 301|TRUCK|40|120|9|5
+2016 Toyota Camry|285 YAP|CAR|-10|50|5|3| This vehicle has a negative current fuel value, system will automatically adjust level to 0
+2015 Nissan Altima|UGH 498|CAR|45|50|8|2
+2008 Chevrolet Impala|TTT 643|CAR|30|63|7|3
+2000 Jeep Grand Cherokee|823 BOW|SUV|45|90|3|4
+2010 Ford Focus|847 BAM|CAR|30|-30|8|1| This vehicle will be skipped silently because fuel capacity is less than 0
+2019 Nissan Pathfinder|777 TRA|SUV|30|85|9|5| This vehicle will be skipped silently because stall 9,5 is already occupied
+1984 Dodge Grand Caravan|DAX 283|VAN|20|68|1|7| This vehicle will be skipped silently as it has a type not recognized by the system
